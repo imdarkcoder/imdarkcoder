@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Patel</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imdarkcoder&label=Profile%20views&color=0e75b6&style=flat" alt="imdarkcoder" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/64314222/143478223-1bd9b4ef-b435-4d2a-9bb5-4557ef3e0ddd.gif">
 
 - 📫 How to reach me **imdarkcoder@gmail.com**
 

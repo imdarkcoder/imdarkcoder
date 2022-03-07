@@ -1,6 +1,6 @@
 ![header_](https://user-images.githubusercontent.com/64314222/157037595-5bec952f-d3c5-41d3-a1fb-bca50f7715e1.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I+am+Abhishek+Verma;+Welcome+to+My+Profile!;I+am+a+Full-Stack+Developer!;I+am+always+learning+and+exploring+new+things+!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I+am+Abhishek+Verma!;+Welcome+to+My+Profile!;I+am+a+Full-Stack+Developer!;I+am+always+learning+and+exploring+new+things+!;)](https://git.io/typing-svg)
 
 <!-- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Abhishek Patel</h1> -->
 

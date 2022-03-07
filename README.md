@@ -1,9 +1,18 @@
-[![MasterHead](https://richestsoft.com/blog/wp-content/uploads/2019/04/web-development-banner.jpg)](https://arifasadullah.github.io)
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Abhishek Patel</h1>
+![header_](https://user-images.githubusercontent.com/64314222/157037595-5bec952f-d3c5-41d3-a1fb-bca50f7715e1.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imdarkcoder&label=Profile%20views&color=0e75b6&style=flat" alt="imdarkcoder" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I+am+Abhishek+Verma;+Welcome+to+My+Profile!;I+am+a+Full-Stack+Developer!;I+am+always+learning+and+exploring+new+things+!;)](https://git.io/typing-svg)
+
+<!-- <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Abhishek Patel</h1> -->
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=imdarkcoder&label=Profile%20views&color=0e75b6&style=flat" alt="imdarkcoder" /> </p> -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimdarkcoder&count_bg=%23151C10&title_bg=%23495F3A&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![Profile views](https://gpvc.arturio.dev/imdarkcoder)
+
+<p align="left">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=imdarkcoder.imdarkcoder" alt="visitors"/>
+</p>
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/64314222/143478223-1bd9b4ef-b435-4d2a-9bb5-4557ef3e0ddd.gif">
 

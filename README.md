@@ -13,7 +13,7 @@
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=imdarkcoder.imdarkcoder" alt="visitors"/>
 </p>
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/64314222/143478223-1bd9b4ef-b435-4d2a-9bb5-4557ef3e0ddd.gif">
+<img align="right"  style="border-radius:50%" alt="Coding" width="350" src="https://user-images.githubusercontent.com/64314222/158047473-a2941c23-d9a2-48af-8ab3-528fd856e377.gif">
 
 - 📫 How to reach me **imdarkcoder@gmail.com**
 <h2>🥇 Specialised in:</h2>

@@ -17,11 +17,11 @@
 
 - 📫 How to reach me **imdarkcoder@gmail.com**
 <h2>🥇 Specialised in:</h2>
-  <p>🔸 Languages - C, C++, Java, Python, JavaScript, BASH
-<br>🔸 FrontEnd - HTML, CSS, bootstrap, React.js, React-Native
-<br>🔸 BackEnd - Node, Express, Django
-<br>🔸 DevOps - Docker, Apache Kafka, Git
-<br>🔸 Database - SQL, MongoDB, Redis
+<p>🔸 Languages - C, Java, Python, JavaScript
+<br>🔸 FrontEnd - HTML, CSS, bootstrap, React.js
+<br>🔸 BackEnd - Node, Express
+<br>🔸 DevOps - Docker, Git
+<br>🔸 Database - SQL, MongoDB
 <p>
 
 <h2>
